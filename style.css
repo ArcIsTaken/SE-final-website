@@ -1,14 +1,17 @@
 html {
     background-color: rgb(55, 46, 131);
 }
+
 body {
-    margin: :50px;
+    margin: 50px;
     background-color: black;
 }
+
 body { 
     border: 10px solid rgb(0, 0, 0); 
     text-align: center;
 }
+
 body h1 {
     color: #fff0ff;
     text-align: center;
