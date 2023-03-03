@@ -1,12 +1,13 @@
-
+html {
+    background-color: rgb(55, 46, 131);
+}
 body {
-    background-color: rgb(35, 16, 102);
+    margin: :50px;
+    background-color: black;
 }
 body { 
     border: 10px solid rgb(0, 0, 0); 
-    width: fit-content;
     text-align: center;
-    width: 100%;
 }
 body h1 {
     color: #fff0ff;
