@@ -1,10 +1,11 @@
 html {
-    background-color: rgb(55, 46, 131);
+    background-color: rgb(89, 79, 172);
 }
 
 body {
     margin: 50px;
     background-color: black;
+    border-radius: 25px;
 }
 
 body { 
@@ -18,4 +19,11 @@ body h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 70px;
     text-shadow: 0px 0px 10px rgb(236, 130, 201);
+}
+
+body h2 {
+    color: #fff0ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
